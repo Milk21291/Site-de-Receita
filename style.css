@@ -1,0 +1,91 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(49, 36, 36);
+    background-image: url(https://a-static.besthdwallpaper.com/coffee-pastry-cake-wallpaper-3200x2400-3682_29.jpg);
+} 
+
+.container {
+    background: #ecf4ff;
+    color: #1c1c1c;
+    margin: 64px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #000000;
+    padding: 64px;
+  }
+  
+img {
+    height: 600px;
+    width: 1150px;
+    margin-left: -75px;
+    border-radius: 10px;
+}
+
+figcaption {
+    margin-left: -68px;
+  color: rgb(0, 0, 0);
+}
+
+h1 { 
+    color: rgb(255, 136, 0);
+    text-align: center;
+    display:auto;
+}
+
+ol {
+    font-family: 'Roboto', sans-serif;
+    height: 30px;
+    width: 1000px;
+margin-left: -110px;
+color: rgb(0, 0, 0);
+}
+
+h2 {
+    margin-top: -20px;
+    color:rgb(255, 136, 0);
+    text-align: center;
+    display:auto;
+}
+
+.torta {
+    margin-left: 800px;
+    margin-top: -300px;
+}
+
+.imagem {
+    margin-left: 800px;
+    margin-top: -1000px;
+}
+
+.logo {
+    margin-left: 800px;
+    margin-top: -400;
+}
+
+.titulo {
+    margin-top: -35px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.git {
+    height: 50px;
+    width: 50px;
+    margin-left: 499px;
+    
+}
+
+h {
+    color: rgb(0, 0, 0);
+    margin-left: 499px;
+}
+
+/*
+.ab {
+    margin-top: -4px;
+    margin-left: 499px;
+    text-decoration: none;
+  }
+  
+  .container-projeto a:hover {
+    color: #006aff;
+  } */
